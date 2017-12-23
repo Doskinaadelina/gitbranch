@@ -1,3 +1,8 @@
 Dobryi vecher, zadanie po TEC.
 Nadeyus` u menya poluchitsya :DD
+<<<<<<< HEAD
 Poka chto vse verno, nu skoree vsego
+=======
+Taks, chet kajis` ne poluchaetsya :(
+>>>>>>> doka
+Ili poluchaetsya ;D
